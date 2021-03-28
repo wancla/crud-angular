@@ -1,0 +1,11 @@
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+
+button {
+  margin: 0.5rem;
+  bottom: 0;
+}
