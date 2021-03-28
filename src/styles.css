@@ -7,5 +7,15 @@
 
 }
 :root {
-  --red: rgba(227, 94, 107);
+  --red: #e35e6b;
 }
+
+.msg-success {
+  background: #28a745;
+  color: #fff;
+}
+.msg-error {
+  background: var(--red);
+  color: #fff;
+}
+
